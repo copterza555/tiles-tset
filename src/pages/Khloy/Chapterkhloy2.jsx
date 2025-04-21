@@ -1,6 +1,6 @@
 import { useLocation, useNavigate } from "react-router-dom";
 import Background from "../../components/BackgroundKhloyB"; 
-import Header from "../../components/Header"; 
+import Header from "../../components/header"; 
 import lockIcon from "../../picture/Iconkhloylock.png"; 
 import unlockIcon from "../../picture/Iconkhloyunlock.png"; 
 import Iconpass from "../../picture/Iconkhloypass.png"; 
